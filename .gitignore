@@ -1,0 +1,7 @@
+__pycache__
+__pycache__/
+
+*_token.py
+cordle_token.py
+
+.idea/
